@@ -71,7 +71,7 @@ sudo nano /usr/share/X11/xkb/rules/evdev.xml
 - [The Microsoft Keyboard Layout Creator (MSKLC)](https://support.microsoft.com/en-us/topic/906c31e4-d5ea-7988-cb39-7b688880d7cb)
 - [MSKLC Link](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
 - [X Keyboard Extension (XKB)](https://www.x.org/wiki/XKB/)
-- [XKB Configuration Database](http://www.x.org/releases/individual/data/xkeyboard-config/)
+- [XKB Configuration Database](https://www.x.org/releases/individual/data/xkeyboard-config/)
 - [XKB ArchWiki](https://wiki.archlinux.org/title/X_keyboard_extension)
 - [Damiano Venturin's Guide to XKB](https://medium.com/@damko/a-simple-humble-but-comprehensive-guide-to-xkb-for-linux-6f1ad5e13450)
 - [Unicode Charts](https://unicode.org/charts/)
