@@ -1,13 +1,15 @@
 # Better Persian Layouts
-![Better Persian Layouts](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/banner.png?raw=true)
+<img src="https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/banner.png" alt="" width="75%" align="center">
    
-> ### A collection of tweaks to improve Persian layout compatibility across various platforms
 ---
-- ## Persian digits on Windows 11 non-standard layout
+   
+> **A collection of tweaks to improve Persian layout compatibility across various platforms**
+---
+## Persian digits on Windows 11 non-standard layout
    
 Credit: [Farid Zellipour](https://github.com/FaridZelli/BetterPersianLayouts)
    
-## [Download Installer Here](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/source/Persian%20(Microsoft%20Non-Standard%20Layout)%20with%20Persian%20Digits.zip)
+[Download Installer Here](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/source/Persian%20(Microsoft%20Non-Standard%20Layout)%20with%20Persian%20Digits.zip)
    
 <details><summary>Language & region options (Expand)</summary>
   
@@ -15,18 +17,18 @@ Credit: [Farid Zellipour](https://github.com/FaridZelli/BetterPersianLayouts)
   
 </details>
    
-> ### ```Before:```
+### Before:
 ![Windows 11 Keyboard (Before)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/windows11-before.png?raw=true)
-> ### ```After:```
+### After:
 ![Windows 11 Keyboard (After)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/windows11-after.png?raw=true)
 
 ---
 
-- ## Microsoft non-standard layout on X.Org
+## Microsoft non-standard layout on X.Org
 Credit: [Amir Hossein Shekari](https://github.com/vanenshi/xkb-windows-persian-configuration) and [Farid Zellipour](https://github.com/FaridZelli/BetterPersianLayouts)
    
-> ### ```KDE Layout Selector:```
-![KDE Layout Selector (after mod)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/KDE-Layout.png?raw=true)
+### KDE Layout Selector:
+![KDE Layout Selector (after mod)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/KDE-Layout-Selector.png?raw=true)
    
 ### Instructions:
 > [Download and extract this archive](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/source/ir-XKB-Modified.zip)
@@ -53,16 +55,15 @@ sudo nano /usr/share/X11/xkb/rules/evdev.xml
           </configItem>
         </variant>
 ```
-> ### ```Before (standard layout):```
-![KDE Before (standard layout)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/KDE-before1.png?raw=true)
+### Before (standard layout):
+![KDE Before (standard layout)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/KDE-Persian.png?raw=true)
   
-![KDE Before (with Keypad)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/KDE-before2.png?raw=true)
+![KDE Before (with Keypad)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/KDE-PersianKeypad.png?raw=true)
   
-
-> ### ```After (non-standard layout):```
-![KDE After (non-standard layout)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/KDE-after1.png?raw=true)
+### After (non-standard layout):
+![KDE After (non-standard layout)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/KDE-PersianMicrosoft.png?raw=true)
   
-![KDE After (with Keypad)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/KDE-after2.png?raw=true)
+![KDE After (with Keypad)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/KDE-PersianMicrosoftKeypad.png?raw=true)
   
 ---
    
