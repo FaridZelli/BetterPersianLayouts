@@ -1,6 +1,6 @@
 # Better Persian Layouts
-<img src="https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/BetterPersianLayoutsLight.png#gh-light-mode-only" alt="" width="50%" align="center">
-<img src="https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/BetterPersianLayoutsDark.png#gh-dark-mode-only" alt="" width="50%" align="center">
+<img src="https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/BetterPersianLayoutsLight.png#gh-light-mode-only" alt="" width="75%" align="center">
+<img src="https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/BetterPersianLayoutsDark.png#gh-dark-mode-only" alt="" width="75%" align="center">
    
 ---
    
