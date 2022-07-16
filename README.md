@@ -3,15 +3,15 @@
    
 ---
    
-> **A collection of tweaks to improve Persian layout compatibility across various platforms**
+- **A collection of tweaks to improve Persian layout compatibility across various platforms**
 ---
 ## Persian digits on Windows 11 non-standard layout
    
 Credit: [Farid Zellipour](https://github.com/FaridZelli/BetterPersianLayouts)
    
-[Download Installer Here](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/source/Persian%20(Microsoft%20Non-Standard%20Layout)%20with%20Persian%20Digits.zip)
+[Download the installer here](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/source/Persian%20(Microsoft%20Non-Standard%20Layout)%20with%20Persian%20Digits.zip)
    
-<details><summary>Language & region options (Expand)</summary>
+<details><summary>Language & region options showcase (Expand)</summary>
   
 ![Settings Menu Options](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/windows11-settings.png?raw=true)
   
