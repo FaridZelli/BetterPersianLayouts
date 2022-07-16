@@ -19,9 +19,9 @@ Credit: [Farid Zellipour](https://github.com/FaridZelli/BetterPersianLayouts)
 </details>
    
 ### Before:
-![Windows 11 Keyboard (Before)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/windows11-before.png?raw=true)
+![Windows 11 Keyboard (Before)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/windows11-digits-before.png?raw=true)
 ### After:
-![Windows 11 Keyboard (After)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/windows11-after.png?raw=true)
+![Windows 11 Keyboard (After)](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/images/windows11-digits-after.png?raw=true)
 
 ---
 
