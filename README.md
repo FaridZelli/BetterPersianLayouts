@@ -8,7 +8,7 @@
    
 ---
    
-## Persian digits on Windows non-standard layout
+## Localized digits for Windows non-standard layout
    
 Credit: Farid Zellipour
    
@@ -27,13 +27,13 @@ Credit: Farid Zellipour
    
 ---
    
-## Windows non-standard layout on Linux
+## Windows non-standard layout for Linux
    
 - Since `xkeyboard-config-2.39`, the [Persian (Windows)](https://github.com/sinadarvi/windows-persian-keyboard-for-linux) layout has been merged into the XKB Configuration Database.
    
 - If your distribution ships an older version, follow the [instructions on the repository](https://github.com/sinadarvi/windows-persian-keyboard-for-linux#automatic-installation) to apply the patch.
    
-### Extentions:
+### Additional characters:
 | Key | + AltGr (Right Alt) | + Shift + AltGr |
 | :---: | :---: | :---: |
 | 1 | ۱ | Zero-width joiner |
