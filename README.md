@@ -12,7 +12,7 @@
    
 Credit: Farid Zellipour
    
-- ### [Download the installer here](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/source/Persian%20(Microsoft%20Non-Standard%20Layout)%20with%20Persian%20Digits.zip)
+### [Download the installer here](https://github.com/FaridZelli/BetterPersianLayouts/raw/main/source/Persian%20(Microsoft%20Non-Standard%20Layout)%20with%20Persian%20Digits.zip)
    
 <details><summary>Language & region options (click to expand)</summary>
    
